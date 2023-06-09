@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="LAPTOP-19ETOF4R" name="pytest" skipped="0" tests="1" time="0.059" timestamp="2023-06-09T11:45:18.500696"><testcase classname="tests.mario_airflow_utils.test_mario_airflow_utils" name="test_ping" time="0.001" /></testsuite></testsuites>
